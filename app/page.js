@@ -1,5 +1,5 @@
 import React from 'react'
-import { ThemeProvider } from './components/ThemeProvider'
+import { ThemeProvider } from './components/ThemeProvider.js'
 import { ThemeToggleButton } from './components/ThemeToggleButton'
 import { Main } from './Main'
 
